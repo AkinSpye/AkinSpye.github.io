@@ -73,7 +73,13 @@
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, voluptate.
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, voluptate.
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, voluptate.</p>
-		
 		</section>
-	</body>
+	<script type="text/javascript">Let progress = document.getElementById('progressbar');
+		Let totalHeight = document.body.scrollHeight - window.innerHeight;
+		window.onscroll = function(){
+			Let progressHeight = (window.pageYOffset / totalHeight) * 100;
+			progress.style.height = progressHeight + "%";
+		}
+	</script>
+</body>
 </html>
