@@ -19,3 +19,8 @@ section p
 	font-size: 1.2em;
 	color: #fff;
 }
+::-webkit-scrollbar
+{
+	width: 0;
+}
+#scrollPatch
