@@ -23,8 +23,8 @@ ul
 ul li
 {
   list-style: none;
-  
-  
-  
-  
+  text-align: center;
+  color: #333;
+  font-size: 3em;
+  font-weight: 700;
 }
