@@ -14,3 +14,17 @@ body
   min-heigh: 100vh;
 }
 ul
+{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+ul li
+{
+  list-style: none
+  
+  
+  
+  
+}
