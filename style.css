@@ -26,7 +26,7 @@ a:hover
 {
 	color: #171717;
 	background: #0CFF00;
-	box-shadow: 0 0 10px #7400e0, 0 0 40px #7400e0, 0 0 80px #0CFF00;
+	box-shadow: 0 0 10px #0CFF00, 0 0 40px #7400e0, 0 0 80px #0CFF00;
 	/*transition-delay: 1s;*/
 }
 a span
