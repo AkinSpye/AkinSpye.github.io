@@ -28,3 +28,7 @@ ul li
   font-size: 3em;
   font-weight: 700;
 }
+ul li:hover
+{
+  color: transparent;
+}
