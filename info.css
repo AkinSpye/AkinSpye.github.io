@@ -61,7 +61,7 @@ ul
 {
     color: #ffffff;
     list-style: square;
-    text-align: left;
+    list-style-position: inside;
 }
 img
 {
