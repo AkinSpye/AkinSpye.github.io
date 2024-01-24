@@ -57,11 +57,13 @@ p
     font-weight: bold;
     margin: 10px;
 }
-ul li
+ul
 {
     color: #ffffff;
     list-style: square;
     list-style-position: inside;
+    padding: 20px;
+    margin: 20px;
 }
 img
 {
