@@ -60,7 +60,7 @@ p
 ul
 {
     color: #ffffff;
-    list-style-image: url("https://i.giphy.com/hyWrtLpA92EljIfcFt.webp");
+    list-style: square;
     padding: 20px;
     margin: 20px;
 }
