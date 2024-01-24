@@ -60,8 +60,7 @@ p
 ul
 {
     color: #ffffff;
-    list-style: square;
-    list-style-position: inside;
+    list-style-image: url("https://i.giphy.com/hyWrtLpA92EljIfcFt.webp");
     padding: 20px;
     margin: 20px;
 }
