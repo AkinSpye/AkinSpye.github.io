@@ -60,7 +60,8 @@ p
 ul
 {
     color: #ffffff;
-    text-align: center;
+    display: inline-block;
+    vertical-align: top;
 }
 img
 {
