@@ -61,6 +61,7 @@ ul
 {
     color: #ffffff;
     list-style: square;
+    list-style-position: inside;
     padding: 20px;
     margin: 20px;
 }
