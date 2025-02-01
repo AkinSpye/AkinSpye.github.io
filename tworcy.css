@@ -55,3 +55,7 @@ p
 {
     color: #ffffff;
 }
+iframe
+{
+    border-radius: 30px;
+}
